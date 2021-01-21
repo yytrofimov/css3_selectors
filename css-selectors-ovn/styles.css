@@ -1,14 +1,18 @@
 article em {
-    background-color: aqua;
+  background-color: aqua;
 }
 
-nav.main_nav>ul>li {
-    color: bisque;
+nav.main_nav > ul > li {
+  color: bisque;
 }
-
 
 /*This block is not needed unless there is a typo in the assignment. If we mean the first level of the main menu, not paying attention to the same signature nav nivå ett in the first and second levels.*/
 
-nav.main_nav>ul>li>ul {
-    color: initial;
+nav.main_nav > ul > li > ul {
+  color: initial;
+}
+
+
+article p + p {
+    color: firebrick;
 }
