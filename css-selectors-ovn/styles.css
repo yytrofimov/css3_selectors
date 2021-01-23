@@ -19,3 +19,8 @@ article p + p {
 [title="textsnutt"] {
   color: #ff3300;
 }
+
+[title="viktig paragraf"],
+[title="mycket viktig text"] {
+  background-color: #ff3300;
+}
