@@ -34,9 +34,22 @@ article p + p {
 }
 
 #colored_table tr:nth-child(2n) {
-  background-color: #FFFF99;
+  background-color: #ffff99;
 }
 
 #colored_table tr:nth-child(3n) {
-  background-color: #CCFF66;
+  background-color: #ccff66;
+}
+
+h1 {
+  font-family: "Prociono", serif;
+}
+
+h3 {
+  font-family: "Lato", sans-serif;
+}
+
+.fab {
+  font-size: 42px;
+  color: #333333;
 }
