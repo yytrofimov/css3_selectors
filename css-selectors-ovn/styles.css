@@ -24,3 +24,7 @@ article p + p {
 [title="mycket viktig text"] {
   background-color: #ff3300;
 }
+
+#zebra li:nth-child(2n) {
+  background-color: #99ccff;
+}
