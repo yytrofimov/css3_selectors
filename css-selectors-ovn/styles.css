@@ -28,3 +28,7 @@ article p + p {
 #zebra li:nth-child(2n) {
   background-color: #99ccff;
 }
+
+#zebra li:last-child {
+  border-bottom: 2px solid;
+}
