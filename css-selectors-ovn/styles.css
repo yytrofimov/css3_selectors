@@ -32,3 +32,11 @@ article p + p {
 #zebra li:last-child {
   border-bottom: 2px solid;
 }
+
+#colored_table tr:nth-child(2n) {
+  background-color: #FFFF99;
+}
+
+#colored_table tr:nth-child(3n) {
+  background-color: #CCFF66;
+}
