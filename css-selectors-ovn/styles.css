@@ -12,7 +12,10 @@ nav.main_nav > ul > li > ul {
   color: initial;
 }
 
-
 article p + p {
-    color: firebrick;
+  color: firebrick;
+}
+
+[title="textsnutt"] {
+  color: #ff3300;
 }
